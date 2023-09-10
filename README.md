@@ -6,13 +6,12 @@ This repository is dedicated to sharing device configuration recommendations acr
 
 In the fast-paced world of technology, it can be challenging to stay up-to-date with the best hardware configurations for different tasks. This repository brings together a community of enthusiasts and experts who collaborate to compile and share their insights on the ideal hardware setups for various domains, such as:
 
+- Engineering Education
+- Everyday Use
 - Gaming
-- Software Development
-- Machine Learning
 - Graphic Design
+- Software Development
 - Video Editing
-- Server Hosting
-- UI/UX & Design
 
 ## How to Contribute
 
